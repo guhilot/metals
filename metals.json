@@ -1,14 +1,18 @@
 [
     {
-        "Gold": "$ 1759.20"
+        "Name":"Gold",
+        "Price": "$ 1759.20"
     },
     {
-        "Silver" : "$ 17.59"
+        "Name":"Silver",
+        "Price" : "$ 17.59"
     },
     {
-        "Platinum": "$ 825.95"
+        "Name":"Platinum",
+        "Price": "$ 825.95"
     },
     {
-        "Palladium":"$ 2102.40"
+        "Name":"Palladium",
+        "Price":"$ 2102.40"
     }
 ]
