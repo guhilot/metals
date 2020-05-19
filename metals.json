@@ -1,0 +1,18 @@
+[
+    {
+        "Name": "Gold",
+        "Price": "$ 1759.20"
+    },
+    {
+        "Name": "Silver",
+        "Price": "$ 17.59"
+    },
+    {
+        "Name":"Platinum",
+        "Price": "$ 825.95"
+    },
+    {
+        "Name":"Palladium",
+        "Price":"$ 2102.40"
+    }
+]
